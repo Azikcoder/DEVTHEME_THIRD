@@ -1,0 +1,359 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.clr {
+    clear: both;
+}
+#container-head {
+    width: 100%;
+}
+.active {
+    background-color: rgba(251, 6, 6, 0.2);
+}
+.box1, .box2, .box3 {
+    display: inline-block;
+    float: left;
+} 
+.navbar a {
+    margin-left: 10px;
+}
+i {
+    display: inline-block;
+    margin-right: 10px;
+}
+.box1 p, .box2 p {
+    display: inline-block;
+    
+}
+.box1 {
+    margin-left: 100px;
+}
+.box2 {
+    margin-left: 10px;
+}
+.box3 {
+    margin-left: 400px;
+    height: ;
+}
+#image-1 {
+    color: #fff !important;
+    background-image: url(../Images/compyuters/pexels-kyle-loftus-3379934.jpg);
+    width: 100%;
+    height: 99vh;
+    background-position: fixed;
+    background-size: cover;
+
+}
+html {
+    scroll-behavior: smooth;
+}
+.belgilar {
+    margin-top: 200px;
+}
+.box4, .box6 {
+    display: inline-block;
+    
+}
+.box6 {
+    float: right;
+    cursor: pointer;
+}
+.box5 {
+    float: left;
+    cursor: pointer;
+}
+.text-red {
+    color: red;
+}
+.box7 {
+    display: inline-block;
+    float: left;
+    margin-left: 500px;
+    font-size: 80px;
+    font-weight: bold !important;
+}
+.btn-white {
+    padding: 15px;
+    background: none;
+    border: 2px solid #fff;
+    display: inline-block;
+    font-size: 20px;
+    margin-top: -150px !important;
+    margin-left: 100px;
+}
+.btn-white:hover {
+    background-color: #fff;
+    color: #000;
+    transition: 0.6s;
+}
+.box8 {
+    margin-top: 100px;
+    cursor: pointer;
+    margin-left: 700px;
+}
+.col-lg-3 h2, p {
+    text-align: center;
+    color: #fff;
+    
+}
+.col-lg-3 {
+    background-color: red;
+    width: 24% !important;
+    
+}
+
+.col-3 {
+    width: 200px !important;
+}
+.box10 {
+    background-color: #000;
+}
+.row1 {
+    background-color: red;
+    width: 100%;
+}
+.col-md-3 {
+    display: inline-block;
+    float: left;
+    padding: 0 30px;
+}
+..col-md-3 h2 {
+    color: #fff;
+    text-align: center;
+}
+
+.quti-radus {
+    width: 80px;
+    height: 80px;
+    border: 1px solid red;
+    border-radius: 0 40% 0 40%;
+    margin-left: 100px;
+    
+}
+.head1 {
+   background-color: #000;
+}
+
+.box14 {
+    width: 300px;
+    height: 400px;
+    text-align: center;
+    color: #fff;
+    display: inline-block;
+    float: left;
+    margin-top: 50px;
+    padding: 10px 20px;
+}
+.text-1 {
+    text-align: center;
+    color: #fff;
+    font-size: ;
+}
+.box14 h4 {
+    font-size: 20px;
+}
+.box14 h6 {
+    font-size: 13px;
+}
+.po-fixet {
+    background-image: url(../Images/compyuters/pexels-fauxels-3183186.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    width: 100%;
+    height: 400px;
+}
+.head23 {
+    width: 700px;
+    position: relative;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+.box21 {
+    display: inline-block;
+    float: left;
+    width: 330px;
+    position: relative;
+    padding: 10px;
+    border-right: coral 1px solid;
+    border-bottom: 1px solid coral;
+}
+.box22 {
+    display: inline-block;
+    float: left;
+    width: 330px;
+    position: relative;
+    padding: 10px;
+    border-bottom: 1px solid coral;
+}
+.chap-icon {
+    display: inline-block;
+    float: left;
+}
+.ung-yozuv {
+    display: inline-block;
+    float: right;
+}
+.box21:hover {
+    background-color: coral;
+    cursor: pointer;
+    transition: 0.7s;
+}
+
+.box22:hover {
+    background-color: coral;
+    cursor: pointer;
+    transition: 0.7s;
+    
+}
+.btn12:hover {
+    background: none !important;
+}
+.dark-overlay {
+    position: absolute;
+    background-image: url(../Images/compyuters/pexels-thisisengineering-3861969.jpg);
+    width: 100%;
+    height: 50vh;
+    background-attachment: fixed;
+    background-color: rgba(251, 6, 6, 0.2);
+    background-size: cover;
+}
+.dark-overlay h1 {
+    padding-top: 100px;
+}
+.clr {
+    clear: both;
+}
+#team-page {
+    margin-top: 340px;
+}
+
+.col-31 {
+    display: inline-block;
+    float: left;
+    margin-left: 10px;
+    cursor: pointer;
+}
+.head-team {
+    margin-left: 20px;
+}
+.col-azik-3 {
+    width: 20%;
+    background-color: #fff;
+    display: inline-block;
+    
+    margin: 40px 30px;
+
+}
+.col-azik-3 h4 {
+    font-weight: 100;
+    font-size: 15px;
+    cursor: pointer;
+    margin-top: 20px;
+}
+
+.red-box {
+    border: 1px solid red;
+    border-radius: 0 30%  0 30%;
+    background-color: red;
+    width: 120px;
+    height: 120px;
+}
+.buy-now {
+   border: 1px solid red;
+   border-radius: 0 30% 0 20%; 
+   margin-top: 20px;
+   margin-bottom: 20px;
+   background-color: red;
+   padding: 20px;
+   color: #fff;
+   margin-left: 60px;
+}
+.buy-now:hover {
+    background: none;
+    color: #000;
+    transition: 0.6s;
+}
+.head-client img {
+    background-color: rgba(0, 0, 0, 0.2);
+}
+.col-client-2 {
+    display: inline-block;
+    margin: 0 10px;
+}
+.icon-radus {
+    text-align: center;
+    color: red;
+    width: 50px;
+    height: 50px;
+    border: 1px solid red;
+    border-radius: 50%;
+    background-color: #fff;
+    display: inline-block;
+}
+.icon1 {
+   position: relative;
+   top: 9px;
+   left: 5px;
+   display: inline-block;
+}
+.col-contact-6 {
+    width: 50%;
+    display: inline-block;
+    float: left;
+}
+.box-contact1 p {
+    text-align: left;
+    display: inline-block;
+    position: relative;
+    top: 20px;
+    left: 10px;
+}
+.box-contact1 {
+    margin-left: 50px;
+    padding: 20px 0;
+    border-bottom: 3px dashed #222;
+}
+#text {
+    padding: 9px 20px 9px 5px;
+    background-color: #000;
+    color: #222;
+
+    border: 3px solid #333;
+    margin-bottom: 10px;
+}
+#mess {
+    padding: 5px 195px 5px 5px;
+    background-color: #000;
+    color: #222;
+    margin-bottom: 10px;
+
+    border: 3px solid #333;
+}
+.btn-send {
+    color: #333;
+    font-size: 20px;
+    text-align: center;
+    border: 3px solid #333;
+    width: 270px;
+    padding: 10px 0;
+    margin-left: 120px;
+}
+.btn-send:hover {
+    border-color: #fff;
+    color: #fff;
+    cursor: pointer;
+
+}
+.box-work-6 {
+    display: inline-block;
+    float: left;
+
+}
+.box-work-7 {
+    display: inline-block;
+    float: left;
+    
+}
